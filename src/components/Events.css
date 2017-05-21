@@ -1,0 +1,27 @@
+.events {
+    border: 1px solid black;
+    flex: 1;
+    display: block;
+    margin: 10px 10px 10px 10px;
+    padding: 10 10 10 10;
+}
+
+.event {
+    border: 1px solid black;
+}
+
+.event .title {
+    text-align: center;
+}
+
+.event .location {
+
+}
+
+.event .date {
+
+}
+
+.event .time {
+
+}

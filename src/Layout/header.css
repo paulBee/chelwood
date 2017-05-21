@@ -1,0 +1,55 @@
+.header-picture {
+    background: url('/images/villagepanorama.jpeg') no-repeat scroll top;
+    background-size: 1600px auto;
+}
+
+.banner-link {
+    display: block;
+    margin: 0 auto;
+    max-width: 1080px;
+    min-height: 230px;
+    padding: 0 20px;
+    text-decoration: none;
+    width: 100%;
+}
+
+.site-title {
+    font-size: 60px;
+    font-weight: bold;
+    color: #fff;
+    line-height: 1;
+    margin: 0;
+    padding: 58px 0 10px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.site-tagline {
+    font: 25px "Source Sans Pro", Helvetica, sans-serif;
+    color: #fff;
+    margin: 0;
+    margin-top: -5px;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.header-link {
+    display: flex;
+    justify-content: center;
+   margin: 0;
+   padding: 0;
+   background-color: Beige;
+}
+.link{
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.link:hover {
+    background-color: #e3e39c;
+}
+
+.selected {
+    color: IndianRed;
+}

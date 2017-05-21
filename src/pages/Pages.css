@@ -1,0 +1,4 @@
+.eventspage {
+    display: flex;
+    flex-direction: row;
+}
